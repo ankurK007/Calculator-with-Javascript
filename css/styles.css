@@ -5,9 +5,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+/*Amazing calculator is created*/
 body {
-    background: #02AAB0;
+    background-color: #02AAB0;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #00CDAC, #02AAB0);
     /* Chrome 10-25, Safari 5.1-6 */
